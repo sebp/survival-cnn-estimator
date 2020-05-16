@@ -5,7 +5,7 @@ This is a [tutorial on survival analysis](https://k-d-w.org/blog/2019/07/surviva
 There are two versions of the tutorial:
 
 1. Using tf.Estimator and TensorFlow 1.X: [tutorial\_tf1.ipynb](https://nbviewer.jupyter.org/github/sebp/survival-cnn-estimator/blob/master/tutorial_tf1.ipynb)
-2. Using Keras and TensorFlow 2.X: [tutorial\_tf1.ipynb](https://nbviewer.jupyter.org/github/sebp/survival-cnn-estimator/blob/master/tutorial_tf2.ipynb)
+2. Using Keras and TensorFlow 2.X: [tutorial\_tf2.ipynb](https://nbviewer.jupyter.org/github/sebp/survival-cnn-estimator/blob/master/tutorial_tf2.ipynb)
 
 
 ## Getting started
